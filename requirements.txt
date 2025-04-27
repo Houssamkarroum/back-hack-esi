@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+deep-translator
+opencage
+requests
+Pillow
+requests
+python-dotenv
+flask
+flask-wtf
